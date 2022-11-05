@@ -46,9 +46,7 @@ alt="css3" width="40" height="40" /> </a> <a href="https://developer.mozilla.org
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
       alt="mysql" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="react" width="40" height="40" /> </a>
+      alt="mongodb" width="40" height="40" />
   </p>
   <br>
 
@@ -71,7 +69,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=msangameshwar
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/sangameshwar-mokampalle/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/msangameshwar/msangameshwar/main/raw/linkedin_rect.svg"></a>&nbsp;&nbsp;
-/<a href="https://twitter.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/msangameshwar/msangameshwar/blob/main/raw/twitter_rect.svg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/the_beast_logan" target="_blank"><img height="25" src="https://github.com/msangameshwar/msangameshwar/blob/main/raw/insta_rect.svg"></a>&nbsp;&nbsp;
 
   <br>
