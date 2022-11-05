@@ -1,16 +1,85 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hello there, I'm Sangameshwar :) </b></h1>
+</p>
 
-<!--
-**msangameshwar/msangameshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h4 align="center"><b>"Time, Tide and JavaScript wait for none"</b></h4>
+</p>
+<hr>
 
-Here are some ideas to get you started:
+<p><img align="right" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/animation_500.gif" alt="sangameshwar-mokampalle" height="400" width="400" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Web Developer
+
+- 🔭 I’m currently working on my Portfolio Website :D
+- 🌱 I’m currently learning MEAN Stack Development.
+- 💬 Ask me about anything, I am happy to help.
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: Food and [Memes][youtube] are the reason to live.
+  <br>
+
+### Languages and Tools:
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="\_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+alt="css3" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://www.php.net/" target="\_blank" rel="noreferrer"> <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      alt="php" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="\_blank" rel="noreferrer"> <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+      alt="java" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="\_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" /> </a> <a href="https://nodejs.org/" target="\_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      alt="nestjs" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="mysql" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="react" width="40" height="40" /> </a>
+  </p>
+  <br>
+
+### Github Stats:
+
+<img align="left"
+  src="https://github-readme-stats.vercel.app/api?username=sangameshwar-mokampalle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+  alt="sangameshwar-mokampalle" width="47%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sangameshwar-mokampalle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="sangameshwar-mokampalle" width="47%" />
+<br>
+
+<img  
+src="https://github-readme-stats.vercel.app/api/top-langs?username=sangameshwar-mokampalle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="sangameshwar-mokampalle" 
+    bg_color=#808080 width="47%" height="47%"/>
+<br>
+
+### Find me on:
+
+<a href="https://www.linkedin.com/in/sangameshwar-mokampalle/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/sangameshwar-mokampalle/sangameshwar-mokampalle/main/raw/linkedin_rect.svg"></a>&nbsp;&nbsp;
+/<a href="https://twitter.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/twitter_rect.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/the_beast_logan" target="_blank"><img height="25" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/insta_rect.svg"></a>&nbsp;&nbsp;
+
+  <br>
+
+![pv](https://komarev.com/ghpvc/?username=sangameshwar-mokampalle&label=Profile%20views&color=0e75b6&style=flat)
+
+<!--[website]: -->
+
+[linkedin]: https://www.linkedin.com/in/sangameshwar-mokampalle/
+
+---
