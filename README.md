@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-<p><img align="right" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/animation_500.gif" alt="sangameshwar-mokampalle" height="400" width="400" /></p>
+<p><img align="right" src="https://github.com/msangameshwar/msangameshwar/blob/main/raw/animation_500.gif" alt="msangameshwar" height="400" width="400" /></p>
 
 ### A Web Developer
 
@@ -55,28 +55,28 @@ alt="css3" width="40" height="40" /> </a> <a href="https://developer.mozilla.org
 ### Github Stats:
 
 <img align="left"
-  src="https://github-readme-stats.vercel.app/api?username=sangameshwar-mokampalle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-  alt="sangameshwar-mokampalle" width="47%" />
+  src="https://github-readme-stats.vercel.app/api?username=msangameshwar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+  alt="msangameshwar" width="47%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sangameshwar-mokampalle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
-       alt="sangameshwar-mokampalle" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msangameshwar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="msangameshwar" width="47%" />
 <br>
 
 <img  
-src="https://github-readme-stats.vercel.app/api/top-langs?username=sangameshwar-mokampalle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="sangameshwar-mokampalle" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=msangameshwar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="msangameshwar" 
     bg_color=#808080 width="47%" height="47%"/>
 <br>
 
 ### Find me on:
 
-<a href="https://www.linkedin.com/in/sangameshwar-mokampalle/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/sangameshwar-mokampalle/sangameshwar-mokampalle/main/raw/linkedin_rect.svg"></a>&nbsp;&nbsp;
-/<a href="https://twitter.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/twitter_rect.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/the_beast_logan" target="_blank"><img height="25" src="https://github.com/sangameshwar-mokampalle/sangameshwar-mokampalle/blob/main/raw/insta_rect.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sangameshwar-mokampalle/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/msangameshwar/msangameshwar/main/raw/linkedin_rect.svg"></a>&nbsp;&nbsp;
+/<a href="https://twitter.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/msangameshwar/msangameshwar/blob/main/raw/twitter_rect.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/the_beast_logan" target="_blank"><img height="25" src="https://github.com/msangameshwar/msangameshwar/blob/main/raw/insta_rect.svg"></a>&nbsp;&nbsp;
 
   <br>
 
-![pv](https://komarev.com/ghpvc/?username=sangameshwar-mokampalle&label=Profile%20views&color=0e75b6&style=flat)
+![pv](https://komarev.com/ghpvc/?username=msangameshwar&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--[website]: -->
 
