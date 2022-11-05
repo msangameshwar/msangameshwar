@@ -16,7 +16,7 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: Food and [Memes][youtube] are the reason to live.
+- ⚡ Fun fact: Food and travel are the reason to live.
   <br>
 
 ### Languages and Tools:
